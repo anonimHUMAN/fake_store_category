@@ -15,47 +15,47 @@ function App() {
             .then(json => setdata([json]))
     }
     const get$2 = () => {
-        fetch('https://fakestoreapi.com/products/1')
+        fetch('https://fakestoreapi.com/products/2')
             .then(res => res.json())
             .then(json => setdata([json]))
     }
     const get$3 = () => {
-        fetch('https://fakestoreapi.com/products/1')
+        fetch('https://fakestoreapi.com/products/3')
             .then(res => res.json())
             .then(json => setdata([json]))
     }
     const get$4 = () => {
-        fetch('https://fakestoreapi.com/products/1')
+        fetch('https://fakestoreapi.com/products/4')
             .then(res => res.json())
             .then(json => setdata([json]))
     }
     const get$5 = () => {
-        fetch('https://fakestoreapi.com/products/1')
+        fetch('https://fakestoreapi.com/products/5')
             .then(res => res.json())
             .then(json => setdata([json]))
     }
     const get$6 = () => {
-        fetch('https://fakestoreapi.com/products/1')
+        fetch('https://fakestoreapi.com/products/6')
             .then(res => res.json())
             .then(json => setdata([json]))
     }
     const get$7 = () => {
-        fetch('https://fakestoreapi.com/products/1')
+        fetch('https://fakestoreapi.com/products/7')
             .then(res => res.json())
             .then(json => setdata([json]))
     }
     const get$8 = () => {
-        fetch('https://fakestoreapi.com/products/1')
+        fetch('https://fakestoreapi.com/products/8')
             .then(res => res.json())
             .then(json => setdata([json]))
     }
     const get$9 = () => {
-        fetch('https://fakestoreapi.com/products/1')
+        fetch('https://fakestoreapi.com/products/9')
             .then(res => res.json())
             .then(json => setdata([json]))
     }
     const get$10 = () => {
-        fetch('https://fakestoreapi.com/products/1')
+        fetch('https://fakestoreapi.com/products/10')
             .then(res => res.json())
             .then(json => setdata([json]))
     }
